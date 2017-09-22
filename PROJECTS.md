@@ -22,6 +22,6 @@ The money goes directly to the owners of the project or the person that is payin
 
 # Projects
 
-| Project | Project Code URL | Project URL | Owner | Email | Costs | Total Funding | Twitter (Optional) | Github (optional) |
-| ------- | ---------------- | ----------- | ----- | ----- | ----- | ------------- | ------------------ | ----------------- |
+| Project | Project Code URL | Project URL | Owner | Email | Costs | Cost Details | Total Funding | Twitter (Optional) | Github (optional) |
+| ------- | ---------------- | ----------- | ----- | ----- | ----- | ------------ | ------------- | ------------------ | ----------------- |
 
