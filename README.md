@@ -23,5 +23,5 @@ We are defining community as:
 
 Resources will be deployed on a volunteer basis to work on the ideas that people on the ground identify as pain points or of urgent need.
 
-That does not mean that anybody can work on what ever they want. What we are trying to do is to be effective with our resources and be effective in our help to people back home.
+That does not mean that you can not work on what ever they want. What we are trying to do is to be effective with our resources and be effective in our help to people back home.
 
